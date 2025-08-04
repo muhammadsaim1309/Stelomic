@@ -1,0 +1,12 @@
+torch
+torchvision
+matplotlib
+scikit-image
+cellpose
+numpy
+opencv-python-headless
+ultralytics
+seaborn
+runpod
+scipy
+pillow
