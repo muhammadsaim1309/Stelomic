@@ -1,0 +1,7 @@
+TensorFlow
+stardist
+csbdeep
+matplotlib
+scikit-image
+numpy
+scipy
